@@ -1,0 +1,22 @@
+{
+  "name": "createGeoJSON",
+  "version": "0.0.1",
+  "description": "格式化GeoJSON",
+  "keywords": [
+    "格式化GeoJSON"
+  ],
+  "author": "MrRabbit<1993iweb@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "scripts": {
+    "create": "node index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^10.11.0",
+    "ts-node": "^7.0.1",
+    "tslint": "^5.11.0",
+    "typescript": "^3.0.3"
+  }
+}
